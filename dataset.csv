@@ -1,0 +1,46 @@
+text,label
+"i feel so down today",sadness
+"my heart just hurts so much",sadness
+"i'm unhappy with my life",sadness
+"everything feels pointless",sadness
+"i'm crying all the time",sadness
+"I am so stressed with my studies",study_stress
+"the exams are overwhelming me",study_stress
+"i can't handle this homework load",study_stress
+"i am failing my classes and feel hopeless",study_stress
+"the pressure to get good grades is too much",study_stress
+"I'm really bored and have nothing to do",boredom
+"this day is so dull and boring",boredom
+"i am so unoccupied",boredom
+"can't find anything interesting to do",boredom
+"just sitting here bored out of my mind",boredom
+"i don't want to live anymore",CRISIS
+"i just want to end my life",CRISIS
+"i want to die",CRISIS
+"i am going to kill myself",CRISIS
+"life isn't worth living",CRISIS
+"i don't want to die",SAFE_NEGATION
+"i would never harm myself",SAFE_NEGATION
+"I am not suicidal",SAFE_NEGATION
+"he said he wanted to die in the video game",SAFE_NEGATION
+"don't kill yourself is what i told him",SAFE_NEGATION
+"i feel so happy today!",happiness
+"this is the best day ever",happiness
+"i'm so joyful right now",happiness
+"everything is going my way!",happiness
+"i can't stop smiling",happiness
+"my boss is giving me so much stress",work_stress
+"i'm so frustrated at work",work_stress
+"my job is making me miserable",work_stress
+"i can't stand my manager",work_stress
+"i dread going to work every day",work_stress
+"i feel so lonely and isolated",loneliness
+"no one talks to me",loneliness
+"i feel completely alone",loneliness
+"i wish i had more friends",loneliness
+"the loneliness is crushing",loneliness
+"i'm feeling anxious about my presentation",anxiety
+"i'm so worried about the future",anxiety
+"my anxiety is through the roof",anxiety
+"i can't stop worrying",anxiety
+"i'm having a panic attack",anxiety

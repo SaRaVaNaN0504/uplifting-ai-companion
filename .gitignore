@@ -1,0 +1,18 @@
+# Secret environment variables
+.env
+
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Large Generated Folders
+my_wellness_model/
+chroma_db_final/
+results/
+logs/
+
+# OS-specific files
+.DS_Store
