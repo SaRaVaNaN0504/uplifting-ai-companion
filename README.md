@@ -1,7 +1,9 @@
 # The Uplifting AI Companion 🤖
 
 A sophisticated, dual-path AI chatbot providing empathetic conversation and intelligent advice.  
-![Demo GIF](![My_uplifiting_Chatbot](https://github.com/user-attachments/assets/7178fc7b-e6db-4ea8-853b-5cf6b2b916db))
+DEMO
+![Screen Recording 2025-07-10 084018](https://github.com/user-attachments/assets/df5f147a-a2f6-4f89-a1d4-692df75a6683)
+
 
 ---
 
