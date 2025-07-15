@@ -47,7 +47,7 @@ Unlike typical chatbots, this project leverages a hybrid logic architecture that
 | Advice Seeking?|-------->| Path 1: RAG / LLM System    |
 | ("how to...")  |         | (For Intelligent Advice)    |
 +--zzzzz
-
+```
 ### 🔹 Path 1: The Advice Seeker (RAG / LLM System)
 
 - Triggered when a user asks a question (e.g., "how to stop overthinking?")
