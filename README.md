@@ -31,7 +31,7 @@ Unlike typical chatbots, this project leverages a hybrid logic architecture that
 
 ## 🧠 Core Architecture: The Dual-Path Logic Engine
 
-'''text
+```
 +----------------+
 |  User Message  |
 +----------------+
@@ -48,6 +48,7 @@ Unlike typical chatbots, this project leverages a hybrid logic architecture that
 | ("how to...")  |         | (For Intelligent Advice)    |
 +--zzzzz
 ```
+
 ### 🔹 Path 1: The Advice Seeker (RAG / LLM System)
 
 - Triggered when a user asks a question (e.g., "how to stop overthinking?")
