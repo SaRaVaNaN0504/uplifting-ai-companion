@@ -41,7 +41,6 @@ Unlike typical chatbots, this project leverages a **hybrid logic architecture** 
 
 ## 🧠 Core Architecture: The Dual-Path Logic Engine
 
-<<<<<<< Updated upstream
 ```
 =======
 '''text
@@ -82,13 +81,13 @@ Unlike typical chatbots, this project leverages a **hybrid logic architecture** 
   - ChromaDB vector search
   - Hugging Face sentence-transformers
   - Groq’s **Llama 3** for detailed, intelligent replies
->>>>>>> Stashed changes
+
 
 ---
 
 ### 🔸 Path 2: The Feeling Expresser (Guided Conversation Engine)
 
-<<<<<<< Updated upstream
+
 - Triggered when a user expresses a feeling (e.g., "I feel so sad.")
 - Follows a 2-step empathy flow:
   1. A probing question to understand emotional context
@@ -98,7 +97,7 @@ Unlike typical chatbots, this project leverages a **hybrid logic architecture** 
 - Follows a **2-step empathy flow**:
   1. A **probing question** to understand emotional context
   2. A **validating response** that reflects the user’s input
->>>>>>> Stashed changes
+
 
 ---
 
