@@ -186,10 +186,7 @@ Follow these steps to get a local copy up and running on your machine.
     └── loneliness_advice.txt
     
 
-<<<<<<< Updated upstream
-5.  Build the Vector Database
-    Run this script once to process your knowledge base files. It only needs to be re-run if you add or change the .txt files.
-=======
+
 5.  **Build the Vector Database**
     Run this script once to process your knowledge base files. It only needs to be re-run if you add or change the `.txt` files.
 
@@ -197,19 +194,14 @@ Follow these steps to get a local copy up and running on your machine.
     python prepare_vector_db.py
     
 
-<<<<<<< Updated upstream
-6.  Start the Chatbot Application
-=======
+
 6.  **Start the Chatbot Application**
 
     bash
     python app.py
     
 
-<<<<<<< Updated upstream
-7.  Visit the Application
-    Open your browser and navigate to http://localhost:8000.
-=======
+
 7.  **Visit the Application**
     Open your browser and navigate to `http://localhost:8000`.
 
@@ -282,4 +274,4 @@ While robust, the chatbot has some defined limitations that offer clear opportun
 *   **No Proactive Engagement:** The bot is purely reactive and will not initiate a conversation or send follow-up notifications.
 *   **Not a Medical Device:** The chatbot is explicitly a supportive companion and **not** a substitute for professional medical or therapeutic help. It is designed to de-escalate and point users toward professional resources in a crisis.
 
->>>>>>> Stashed changes
+
